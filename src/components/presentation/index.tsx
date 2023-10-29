@@ -42,10 +42,10 @@ export default function StatsGridWithImage() {
                 À propos de l'entreprise :
               </Text>
               <Heading color={'white'} mb={5} fontSize={{ base: '3xl', md: '5xl' }}>
-              Alain Terrieur
+              Alain Terieur
               </Heading>
               <Text fontSize={'xl'} color={'gray.400'} padding={15}>
-              "Alain Terrieur" est une entreprise de BTP (Bâtiment et Travaux Publics) qui se distingue par son engagement envers la qualité, l'innovation et l'intégrité. Fondée en 1990 par M.Terrieur, l'entreprise est devenue un acteur incontournable dans le secteur de la construction, offrant des services complets de conception, de construction et de rénovation pour une clientèle diversifiée.
+              "Alain Terieur" est une entreprise de BTP (Bâtiment et Travaux Publics) qui se distingue par son engagement envers la qualité, l'innovation et l'intégrité. Fondée en 1990 par M.Terieur, l'entreprise est devenue un acteur incontournable dans le secteur de la construction, offrant des services complets de conception, de construction et de rénovation pour une clientèle diversifiée.
 
               </Text>
               
@@ -62,7 +62,7 @@ export default function StatsGridWithImage() {
                 Qualité supérieure :
               </Text>
               <Text fontSize={'xl'} color={'gray.400'} padding={15}>
-              Chez "Alain Terrieur", nous sommes déterminés à fournir des services de construction de la plus haute qualité. Notre équipe d'experts qualifiés et dévoués veille à ce que chaque projet soit réalisé selon les normes les plus strictes.
+              Chez "Alain Terieur", nous sommes déterminés à fournir des services de construction de la plus haute qualité. Notre équipe d'experts qualifiés et dévoués veille à ce que chaque projet soit réalisé selon les normes les plus strictes.
               </Text>
 
               <Text
@@ -101,7 +101,7 @@ export default function StatsGridWithImage() {
                 Réalisations récentes :
               </Text>
               <Text fontSize={'xl'} color={'gray.400'} padding={15}>
-              Au fil des années, "Alain TERRIEUR" a réalisé de nombreux projets impressionnants, allant de la rénovation d'appartements de luxe à l'aménagement d'espaces commerciaux innovants. Notre portefeuille diversifié témoigne de notre capacité à relever tous les défis et à surpasser les attentes de nos clients.
+              Au fil des années, "Alain TERIEUR" a réalisé de nombreux projets impressionnants, allant de la rénovation d'appartements de luxe à l'aménagement d'espaces commerciaux innovants. Notre portefeuille diversifié témoigne de notre capacité à relever tous les défis et à surpasser les attentes de nos clients.
               </Text>
             </Box>
 
